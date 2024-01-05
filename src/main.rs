@@ -1,3 +1,3 @@
 fn main() {
-    println!("Hello, world!");
+    println!("git has been setup locally");
 }
